@@ -1,0 +1,8 @@
+streamlit
+openai
+reportlab
+tenacity
+chromadb
+python-pptx
+tavily-python
+langgraph
