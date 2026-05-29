@@ -39,7 +39,7 @@ logger = logging.getLogger("deep_research_agent")
 # ---------------- CONFIG ----------------
 
 MAX_TOPIC_LENGTH = 500
-LLM_MODEL = "gpt-5.5-mini"
+LLM_MODEL = "gpt-5.4-mini"
 EMBEDDING_MODEL = "text-embedding-3-small"
 IMAGE_MODEL = "gpt-image-1"
 SEARCH_MAX_RESULTS = 5
